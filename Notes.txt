@@ -1,0 +1,18 @@
+Hotswapping Lesson Notes - Ryan & Will
+Youtube references, https://www.youtube.com/watch?v=IurqiqduMVQ | https://www.youtube.com/watch?v=HmXU4dZbaMw | https://www.youtube.com/watch?v=ZHOWqF-b51k
+
+
+
+Beginning
+
+- Kahoot
+- Break into Lesson (Load up projects)
+- Provide Controllers
+
+
+Lesson
+- Talk about the difference of old vs new
+- Visualization, Game -> InputMap (OnMove, OnJump, etc...) -> Player Controller/Game Manager
+ 
+- install input system package
+- Input Mapping
