@@ -8,11 +8,11 @@ Beginning
 
 - Kahoot
 - Break into Lesson (Load up projects)
-- Provide Controllers
+- Provide Controllers 
 
 
 Lesson
-- Talk about the difference of old vs new
+- Talk about the difference of old vs new input systems
 - Visualization, Game -> InputMap (OnMove, OnJump, etc...) -> Player Controller/Game Manager
  
 - install input system package
