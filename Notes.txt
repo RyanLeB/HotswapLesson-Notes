@@ -6,7 +6,7 @@ Youtube references, https://www.youtube.com/watch?v=IurqiqduMVQ | https://www.yo
 
 Beginning
 
-- Kahoot
+- Kahoot to test knowledge going in 
 - Break into Lesson (Load up projects)
 - Provide Controllers 
 
@@ -15,5 +15,10 @@ Lesson
 - Talk about the difference of old vs new input systems
 - Visualization, Game -> InputMap (OnMove, OnJump, etc...) -> Player Controller/Game Manager
  
-- install input system package
+- Install input system package
+- Enable input system package
 - Input Mapping
+
+- Adjust code to support new input system
+- Demonstrate functionality and hot swapping between controller and mouse and keyboard 
+- 
